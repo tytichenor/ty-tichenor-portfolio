@@ -1,0 +1,25 @@
+header{
+    height: 20em;
+}
+
+
+
+body{
+    background-color: #0e0d0d;
+    color: white;
+    font-family: Impact, fantasy;
+    font-size: large;
+    text-align: center;
+}
+
+nav{
+    background-color: white;
+}
+
+nav a{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    margin: 2em;
+}
+
